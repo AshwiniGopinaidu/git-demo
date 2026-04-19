@@ -1,1 +1,4 @@
 Hello, my first demo file to pratice git commands
+
+Hello second commit
+add this to git repo    
